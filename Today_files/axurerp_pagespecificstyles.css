@@ -1,0 +1,300 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+div.main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_text {
+    position:absolute;
+    left:150px;
+    top:10px;
+    width:310px;
+    height:128px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u0 {
+    position:absolute;
+    left:150px;
+    top:10px;
+    width:310px;
+    height:128px
+}
+
+.u1_original {
+    background-image: url('../Today_files/u1_original.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:130px;
+    height:130px;
+}
+
+#u1_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:130px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:57px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1 {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:130px;
+    height:130px
+}
+
+.u3_text {
+    position:absolute;
+    left:150px;
+    top:174px;
+    width:340px;
+    height:96px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3 {
+    position:absolute;
+    left:150px;
+    top:174px;
+    width:340px;
+    height:96px
+}
+
+.u4_original {
+    background-image: url('../Today_files/u4_original.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:10px;
+    top:170px;
+    width:130px;
+    height:120px;
+}
+
+#u4_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:120px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:10px;
+    top:170px;
+    width:130px;
+    height:120px
+}
+
+.u6_line {
+    background-image: url('../Today_files/u6_line.png');
+}
+
+.u6_line {
+    position:absolute;
+    left:10px;
+    top:154px;
+    width:480px;
+    height:3px;
+}
+
+.u6 {
+    position:absolute;
+    left:10px;
+    top:154px;
+    width:480px;
+    height:3px
+}
+
+.u7_text {
+    position:absolute;
+    left:20px;
+    top:688px;
+    width:220px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:20px;
+    top:688px;
+    width:220px;
+    height:42px
+}
+
+.u8_text {
+    position:absolute;
+    left:260px;
+    top:688px;
+    width:170px;
+    height:42px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8 {
+    position:absolute;
+    left:260px;
+    top:688px;
+    width:170px;
+    height:42px
+}
+
+.u9_original {
+    background-image: url('../Today_files/u9_original.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:10px;
+    top:320px;
+    width:130px;
+    height:110px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:130px;
+    height:110px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:47px;
+    width:126px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:10px;
+    top:320px;
+    width:130px;
+    height:110px
+}
+
+.u11_text {
+    position:absolute;
+    left:151px;
+    top:320px;
+    width:319px;
+    height:128px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:151px;
+    top:320px;
+    width:319px;
+    height:128px
+}
+
+.u12_line {
+    background-image: url('../Today_files/u12_line.png');
+}
+
+.u12_line {
+    position:absolute;
+    left:10px;
+    top:304px;
+    width:480px;
+    height:3px;
+}
+
+.u12 {
+    position:absolute;
+    left:10px;
+    top:304px;
+    width:480px;
+    height:3px
+}
+
